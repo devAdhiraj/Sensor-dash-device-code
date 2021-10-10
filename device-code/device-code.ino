@@ -283,7 +283,3 @@ void loop() {
     timeTracker = 0;
   }
 }
-
-// TODO: fix api - only add if temp && light && humid are not null
-// TODO: api key header
-// TODO: remove info route
